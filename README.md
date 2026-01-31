@@ -35,8 +35,14 @@ npx playwright test tests/SwiftUiTests.spec.js --project=chromium --headed
 
 ### View Test Report
 
-Open terminal and type -
+In the terminal, type:
 
 ```bash
 npx playwright show-report
+```
+
+# If Playwright report is not showing, change the port and check again
+
+```bash
+npx playwright show-report --port 9324
 ```
