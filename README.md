@@ -21,13 +21,13 @@ In this project I tested a real world system. I wrote test cases to identify whi
 
 ## How to Run Tests
 
-### Run SwiftWeb Test Cases
+### Run Positive and Negative Test Cases
 
 ```bash
 npx playwright test tests/SwiftWebTests.spec.js --project=chromium --headed
 ```
 
-### Run SwiftUI Test Cases
+### Run UI Test Cases
 
 ```bash
 npx playwright test tests/SwiftUiTests.spec.js --project=chromium --headed
