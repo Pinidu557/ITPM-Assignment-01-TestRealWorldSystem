@@ -32,3 +32,11 @@ npx playwright test tests/SwiftWebTests.spec.js --project=chromium --headed
 ```bash
 npx playwright test tests/SwiftUiTests.spec.js --project=chromium --headed
 ```
+
+### View Test Report
+
+Open terminal and type -
+
+```bash
+npx playwright show-report
+```
