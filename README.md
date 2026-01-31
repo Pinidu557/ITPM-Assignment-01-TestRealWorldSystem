@@ -4,7 +4,7 @@
 
 # Group - Y3.S1.WD.IT.02.01
 
-In this project I tested a real world system. I wrote test cases to identify which conditions the system passes and fails. I used over 40 test cases and the Playwright tool for automated testing.
+In this project I tested a real world system. I wrote test cases to identify which conditions the system passes and fails. I used over 35 test cases and the Playwright tool for automated testing.
 
 ## Added Dependencies
 
